@@ -6,11 +6,11 @@ on:
       DEVICE_NAME:
         description: 'Your device codename.'
         required: true
-        default: ''
+        default: 'RMX3461'
       ANDROID_VERSION:
         description: 'Your android version.'
         required: true
-        default: ''
+        default: 's-oss'
         type: choice
         options:
         - s-oss
