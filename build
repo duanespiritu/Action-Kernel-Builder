@@ -15,8 +15,8 @@ KERNEL_SRC="${WORK}/${KERNEL}"
 KERNEL_SOURCE_URL="https://github.com/duanespiritu/kernel_realme_RMX3461"
 KERNEL_BRANCH="master"
 
-# Clang URL - Change the version, depends on your kernel source. https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/android13-dev/clang-r450784d.tar.gz
-CLANG_TAR_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12-release/clang-r416183b.tar.gz"
+# Clang URL - Change the version, depends on your kernel source. https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12-release/clang-r416183b.tar.gz
+CLANG_TAR_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android13-release/clang-r450784d.tar.gz"
 
 # Utilities URL x86_x64 - Change it depends on your preference.
 BINUTILS_x64="https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"
